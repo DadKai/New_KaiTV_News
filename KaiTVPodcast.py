@@ -11,7 +11,7 @@ import tempfile
  
  
 def clean_text(text):
-    """Clean text by removing special characters and HTML tags"""
+    """Cleaned text by removing special characters and HTML tags"""
     if not text:
         return ""
    
